@@ -1,5 +1,5 @@
 ---
-title: Concepto y Modelo de Negocio
+title: Info - modelo de negocio
 sidebar_position: 1
 ---
 

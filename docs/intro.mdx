@@ -5,4 +5,26 @@ sidebar_position: 1
 slug: /
 ---
 
-# Intro
+
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+# Documentación de Restaurante
+
+Selecciona un módulo para comenzar:
+
+<DocCardList items={[
+  {
+    type: 'link',
+    label: 'Concepto de Modelo de Negocio',
+    href: './concepto-modelo-negocio/info',
+    description: 'Manual de conceptos y estructura del negocio.'
+  },
+  {
+    type: 'link',
+    label: 'Plan Financiero',
+    href: './plan-financiero/info',
+    description: 'Proyecciones financieras, costos y rentabilidad.'
+  },
+]} />
+
