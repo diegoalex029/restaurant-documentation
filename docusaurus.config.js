@@ -58,7 +58,7 @@ const config = {
             label: 'Contenido',
           },
           {
-            href: 'https://github.com/diegoalex029/burger-restaurant',
+            href: 'https://github.com/diegoalex029/restaurant-documentation',
             label: 'GitHub',
             position: 'right',
           },
