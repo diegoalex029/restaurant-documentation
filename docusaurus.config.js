@@ -15,10 +15,10 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://diegoalex029.github.io',
-  baseUrl: '/burger-restaurant/',
+  baseUrl: '/restaurant-documentation/',
 
   organizationName: 'diegoalex029', // Usually your GitHub org/user name.
-  projectName: 'burger-restaurant', // Usually your repo name.
+  projectName: 'restaurant-documentation', // Usually your repo name.
 
   trailingSlash: false,
 
