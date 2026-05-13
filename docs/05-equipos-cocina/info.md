@@ -1,3 +1,8 @@
+---
+title: Info - Equipos de cocina
+sidebar_position: 1
+---
+
 # Equipos de Cocina
 
 :::info[Estado del documento]
